@@ -1,0 +1,2 @@
+C:\Users\ysq13\source\repos\Knapsack_Problem\Debug\Knapsack_Problem.exe
+C:\Users\ysq13\source\repos\Knapsack_Problem\Debug\Knapsack_Problem.pdb
